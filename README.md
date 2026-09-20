@@ -1,5 +1,6 @@
 # ⚡Software de Clasificação de perfil de consumo de água⚡
 ### Software projetado em python para classificar o consumo de água de moradores locais.
+#### ps: O tipo de imóvel "casa" não possui classificação de consumo econômico, isso não é um erro, foi solicitado dessa maneira
 ---
 ## 💻Como executar💻
 - Abra o arquivo
